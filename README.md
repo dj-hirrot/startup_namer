@@ -1,16 +1,22 @@
 # startup_namer
 
-The application for define name for startup.
+This app generate startup name with a few thousand of the most used English words.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Remaining tasks
+### Part 1
+- [x] Step 1
+- [x] Step 2
+- [x] Step 3
+- [ ] Step 4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Part 2
+- [ ] Step 1
+- [ ] Step 2
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Ref
+- [Write your first Flutter app, part 1](https://flutter.dev/docs/get-started/codelab)
+- [Write Your First Flutter App, part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0)
